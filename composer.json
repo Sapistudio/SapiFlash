@@ -1,0 +1,26 @@
+{
+  "name": "sapistudio/flash-message",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yuri Tkachenko",
+      "email": "yuri.tam.tkachenko@gmail.com",
+      "homepage": "http://tamtamchika.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sapistudio\\SimpleFlash\\": "src"
+    },
+    "files": [
+      "src/function.php"
+    ]
+  },
+  "config": {
+    "process-timeout": 0
+  }
+}
