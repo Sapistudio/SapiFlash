@@ -8,8 +8,5 @@
   "autoload": {
     "psr-4": { "SapiStudio\\SimpleFlash\\": "src/" },
     "files": ["src/function.php"]
-  },
-  "config": {
-    "process-timeout": 0
   }
 }
