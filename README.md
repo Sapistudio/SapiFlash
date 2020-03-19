@@ -1,12 +1,6 @@
 # Simple Flash Messages
+fork after tamtamchik/simple-flash
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
-[![SensioLabs Insight][ico-insight]][link-insight]
 
 Easy, framework agnostic flash notifications for PHP. Inspired by [laracasts/flash](https://github.com/laracasts/flash) and [plasticbrain/PHP-Flash-Messages](https://github.com/plasticbrain/PHP-Flash-Messages). It supports multiple CSS frameworks out of the box:
 
