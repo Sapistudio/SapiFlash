@@ -2,13 +2,6 @@
   "name": "sapistudio/flash-message",
   "type": "library",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Yuri Tkachenko",
-      "email": "yuri.tam.tkachenko@gmail.com",
-      "homepage": "http://tamtamchika.net"
-    }
-  ],
   "require": {
     "php": ">=5.4.0"
   },
